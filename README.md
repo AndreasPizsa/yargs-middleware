@@ -1,10 +1,10 @@
 # yargs-middleware [![NPM version](https://badge.fury.io/js/yargs-middleware.svg)](http://badge.fury.io/js/yargs-middleware)
-  [![Build Status](https://travis-ci.org/AndreasPizsa/yargs-middleware.svg)](https://travis-ci.org/AndreasPizsa/yargs-middleware)
+  [![Build Status](https://travis-ci.org/AndreasPizsa/yargs-middleware.svg)](https://travis-ci.org/AndreasPizsa/yargs-middleware) 
 
 > url parameters for pirates
 
 ## About
-This is an experimental attempt at improving how we work with URL arguments in node/express/restify servers.
+This is an experimental attempt at improving how we work with URL arguments.
 
 The idea is that calling a URL actually is very similar to command line apps:
 + you call an executable on certain a path
@@ -124,9 +124,9 @@ Thanks!
 ## Author
 
 **Andreas Pizsa**
-
+ 
 + [github/AndreasPizsa](https://github.com/AndreasPizsa)
-+ [twitter/AndreasPizsa](http://twitter.com/AndreasPizsa)
++ [twitter/AndreasPizsa](http://twitter.com/AndreasPizsa) 
 
 
 ## License
