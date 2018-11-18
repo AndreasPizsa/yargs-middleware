@@ -1,5 +1,5 @@
 # yargs-middleware [![NPM version](https://badge.fury.io/js/yargs-middleware.svg)](http://badge.fury.io/js/yargs-middleware)
-  [![Build Status](https://travis-ci.org/AndreasPizsa/yargs-middleware.svg)](https://travis-ci.org/AndreasPizsa/yargs-middleware) 
+  [![Build Status](https://travis-ci.org/AndreasPizsa/yargs-middleware.svg)](https://travis-ci.org/AndreasPizsa/yargs-middleware) [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/yargs-middleware.svg)](https://greenkeeper.io/) 
 
 > url parameters for pirates
 
